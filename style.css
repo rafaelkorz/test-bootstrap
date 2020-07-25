@@ -1,4 +1,11 @@
-nav {
-  background: #1234;
-  
+.navbar {
+  background-color: #298A08;
+}
+
+.quem-somos {
+  background-color: blue;
+}
+
+.margin {
+  padding-top: 30px;
 }
